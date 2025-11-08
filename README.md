@@ -1,4 +1,4 @@
-# My Web Development Project Showcase 🚀
+# My Web Development Project Showcase (HTML , CSS , JS Only) 🚀
 
 Welcome to my collection of web development mini-projects! This repository contains several standalone web applications, each built with HTML, CSS, and vanilla JavaScript. These projects demonstrate my skills in front-end development, from creating interactive UIs to fetching data from APIs.
 
